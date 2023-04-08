@@ -1,0 +1,17 @@
+.flex-container{
+    display:flex;
+    flex-direction: row;
+    align-items: top;
+}
+
+#div1{
+    flex-grow: 1;
+}
+
+#div2{
+    flex-grow: 1;
+}
+
+#div3{
+    flex-grow: 1;
+}
